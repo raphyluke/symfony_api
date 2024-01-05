@@ -1,0 +1,29 @@
+
+# Subject:
+# <type>(<scope>): <description> (max 50 characters)
+
+# Type (feat, fix, docs, style, refactor, test, chore): 
+#   - feat: A new feature for the user.
+#   - fix: A bug fix for the user.
+#   - docs: Documentation only changes.
+#   - style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
+#   - refactor: A code change that neither fixes a bug nor adds a feature.
+#   - test: Adding missing tests or correcting existing tests.
+#   - chore: Changes to the build process or auxiliary tools and libraries.
+
+# Scope (optional, but recommended):
+#   - Describes the module or component the commit is affecting.
+
+# Max character limit: 72
+#   - Keep the subject line concise.
+
+# Example:
+# feat(users): add new user authentication feature
+
+# Body (optional):
+#   - Describe the motivation and context of your change. What problem does it solve?
+
+# Footer (optional):
+#   - Include any additional information, such as breaking changes or issues closed.
+
+# See https://www.conventionalcommits.org/en/v1.0.0/ for more details.
